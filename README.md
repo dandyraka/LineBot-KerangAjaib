@@ -1,2 +1,5 @@
 # LineBot-KerangAjaib
-Puja kulit kerang ajaib, ululululu.....
+Konfigurasi :
+Isi 'channel access token' dan 'channel secret' pada run.php
+
+Puja kulit kerang ajaib, ulululululu...
